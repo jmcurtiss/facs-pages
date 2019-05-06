@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "FACS IT",
+    "description": "",
+    "home_page_url": "https://jmcurtiss.github.io/facs-pages",
+    "feed_url": "https://jmcurtiss.github.io/facs-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jeff Curtiss"
+    },
+    "items": [
+        {
+            "id": "https://jmcurtiss.github.io/facs-pages/documents/",
+            "url": "https://jmcurtiss.github.io/facs-pages/documents/",
+            "title": "Documents",
+            "summary": "Page 1 Page 2 ",
+            "content_html": "<p>Page 1</p>\n<p> </p>\n<p>Page 2</p>\n<p> </p>",
+            "image": "https://jmcurtiss.github.io/facs-pages/media/posts/1/",
+            "author": {
+                "name": "Jeff Curtiss"
+            },
+            "tags": [
+                   "docs"
+            ],
+            "date_published": "2019-05-06T11:46:09-07:00",
+            "date_modified": "2019-05-06T11:46:09-07:00"
+        }
+    ]
+}
